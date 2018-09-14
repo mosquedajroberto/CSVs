@@ -1,4 +1,4 @@
-id,CP,Country
-1,58500,Mexico
-2,45602,United States
-3, 167893, canada 
+id,CP,Country,State,city,Address
+1,58120,Mexico,Michoacan,Morelia,1500 Avenida Tecnologico
+2,89109,United States,Nevada,Las Vegas,3799 S Las Vegas Blvd
+3,K2P 2R1,Canada,Ontario,Otawa,240 McLeod St
